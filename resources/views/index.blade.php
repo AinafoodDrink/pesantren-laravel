@@ -8,8 +8,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-
+    <link rel="icon" type="image/png" href="{{ asset('assets/img/about/logo.png') }}">
     <style>
         :root {
             --primary-green: #155724;
@@ -103,7 +102,7 @@
         <p class="lead fs-4 mb-4">Membentuk Generasi Qur’ani, Berakhlak Mulia, dan Mandiri di Era Modern.</p>
         <div class="d-flex justify-content-center gap-3">
             <a href="#pendaftaran" class="btn btn-warning btn-lg px-5 fw-bold">Daftar Sekarang</a>
-            <a href="#profil" class="btn btn-outline-light btn-lg px-5">Kenali Kami</a>
+            <a href="#profil" class="btn btn-outline-light btn-lg px-5">profil pesantren</a>
         </div>
     </div>
 </section>
