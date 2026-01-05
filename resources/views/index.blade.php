@@ -89,7 +89,6 @@
                 <li class="nav-item"><a class="nav-link" href="#program">Program</a></li>
                 <li class="nav-item"><a class="nav-link" href="#asatidzah">Asatidzah</a></li>
                 <li class="nav-item"><a class="nav-link" href="#galeri">Galeri</a></li>
-                <li class="nav-item"><a class="nav-link" href="#kontak">Kontak</a></li>
                 <li class="nav-item ms-lg-3"><a class="btn btn-warning px-4 fw-bold" href="#pendaftaran">DAFTAR</a></li>
             </ul>
         </div>
