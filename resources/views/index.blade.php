@@ -232,6 +232,16 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
           </div>
         </div>
       </div>
+      <div class="col-md-4">
+        <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
+          <img src="{{ asset('assets/img/sen.jpg') }}" class="img-fluid" alt="Seni & Kreativitas" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-paint-brush fa-2x"></i></div>
+            <h4 class="fw-bold">Seni & Kreativitas</h4>
+            <p class="text-muted">Mengembangkan kreativitas melalui seni rupa, kaligrafi, dan musik islami.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
