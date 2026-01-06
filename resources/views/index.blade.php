@@ -344,7 +344,7 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
     <div class="container text-center">
         <div class="section-title">
             <h2 class="fw-bold">Formulir Pendaftaran santri</h2>
-            <p>Gabung bersama kami menjadi generasi unggul, berahklak, dan cerdas.</p>
+            <p>Gabung bersama kami menjadi generasi unggul, berahklak, dan cerdas Dengan Mendaftar Disini.</p>
         </div>
         <div class="row justify-content-center">
             <div class="col-lg-5">
