@@ -326,6 +326,16 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
                     </div>
                 </div>
             </div>
+            <div class="row g-4">
+            <div class="col-md-4">
+                <div class="custom-card">
+                    <img src="{{ asset('assets/img/yo.jpg') }}" class="img-fluid" alt="Kegiatan 1">
+                    <div class="p-3 bg-white text-center">
+                        <h6 class="fw-bold mb-1">bersih-bersih </h6>
+                        <small class="text-muted">Aktivitas rutin yang di lakukan setiap 1 minggu 2 kali.</small>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </section>
