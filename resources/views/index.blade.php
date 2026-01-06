@@ -175,7 +175,37 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
             </div>
         </div>
     </div>
+
+    
+    <div class="container mb-5">
+    <div class="row g-4 text-center">
+        <div class="col-md-4">
+            <div class="p-4 bg-white shadow-sm" style="border-radius: 15px; border-bottom: 5px solid #198754;">
+                <i class="fas fa-chalkboard-teacher fa-3x text-success mb-3"></i>
+                <h2 class="fw-bold">500</h2>
+                <p class="text-muted mb-0">Ustadz & Pengajar</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="p-4 bg-white shadow-sm" style="border-radius: 15px; border-bottom: 5px solid #198754;">
+                <i class="fas fa-user-graduate fa-3x text-success mb-3"></i>
+                <h2 class="fw-bold">3000</h2>
+                <p class="text-muted mb-0">Santri Aktif</p>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="p-4 bg-white shadow-sm" style="border-radius: 15px; border-bottom: 5px solid #198754;">
+                <i class="fas fa-users fa-3x text-success mb-3"></i>
+                <h2 class="fw-bold">1000+</h2>
+                <p class="text-muted mb-0">Alumni Tersebar</p>
+            </div>
+        </div>
+    </div>
+</div>
 </section>
+
 
 <section id="program" class="bg-light">
   <div class="container">
@@ -360,11 +390,11 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
                         </div>
                         <div class="mb-3">
                             <label class="form-label fw-bold small">nama ayah</label>
-                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
+                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="nama lengkap">
                         </div>
                         <div class="mb-3">
                             <label class="form-label fw-bold small">nama ibu</label>
-                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
+                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="nama lengkap">
                         </div>
                         <div class="mb-3">
                             <label class="form-label fw-bold small">asal sekolah</label>
@@ -386,7 +416,7 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
     <div class="container text-center">
         <div class="mb-4">
             <h3 class="fw-bold">AS-SYAMSI</h3>
-            <p class="small text-white-50">📍 Alamat Lengkap Pesantren Anda Di Sini</p>
+            <p class="small text-white-50">📍 Alamat Lengkap Pesantren kami Di Sini</p>
             <div class="d-flex justify-content-center gap-3 fs-4">
                 <a href="#" class="text-white"><i class="bi bi-facebook"></i></a>
                 <a href="#" class="text-white"><i class="bi bi-instagram"></i></a>
