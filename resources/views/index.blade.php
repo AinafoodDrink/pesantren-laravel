@@ -256,11 +256,11 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
   </div>
 </section>
 
-<section id="asatidzah" class="bg-white">
+<section id="para pengasuh pondok pesantren" class="bg-white">
     <div class="container text-center">
         <div class="section-title">
-            <h2 class="fw-bold">Para Asatidzah</h2>
-            <p>Dibimbing langsung oleh para pakar di bidangnya</p>
+            <h2 class="fw-bold">keluarga besar</h2>
+            <p>Semoga Beliau Selalu Dalam lindungan allah SWT.</p>
         </div>
         <div class="row g-4">
             <div class="col-md-4">
@@ -269,24 +269,24 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
                 <p class="text-success small">Pengasuh Pesantren</p>
             </div>
             <div class="col-md-4">
-                <img src="{{ asset('assets/img/zulfikar.png') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
+                <img src="{{ asset('assets/img/nya.jpeg') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
                 <h5 class="fw-bold mb-1">nyai.hj.Fatimah</h5>
                 <p class="text-success small">pengasuh Putri</p>
             </div>
             <div class="col-md-4">
-                <img src="{{ asset('assets/img/zul.png') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
-                <h5 class="fw-bold mb-1">Ustadz Zulfikar</h5>
-                <p class="text-success small">Pembimbing Kitab Kuning</p>
+                <img src="{{ asset('assets/img/uabh.png') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
+                <h5 class="fw-bold mb-1">Raden.lora.Habsyi</h5>
+                <p class="text-success small">putra pertama</p>
             </div>
             <div class="col-md-4">
-                <img src="{{ asset('assets/img/syamsul.jpg') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
-                <h5 class="fw-bold mb-1">Ustadz syamsul</h5>
-                <p class="text-success small">Pembimbing Tahfidzul</p>
+                <img src="{{ asset('assets/img/syamsul.webp') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
+                <h5 class="fw-bold mb-1">Raden.lora. syamsul</h5>
+                <p class="text-success small">Putra ke Dua</p>
             </div>
             <div class="col-md-4">
-                <img src="{{ asset('assets/img/juned.jpg') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
-                <h5 class="fw-bold mb-1">Ustadz juned</h5>
-                <p class="text-success small">ust tugasan</p>
+                <img src="{{ asset('assets/img/iin.png') }}" class="rounded-circle mb-3" width="150" height="150" style="object-fit: cover;">
+                <h5 class="fw-bold mb-1">ning.imroatun</h5>
+                <p class="text-success small">putri ke tiga</p>
             </div>
         </div>
     </div>
