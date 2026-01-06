@@ -358,6 +358,18 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
                             <label class="form-label fw-bold small">alamat</label>
                             <input type="text" name="asal" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
                         </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-bold small">nama ayah</label>
+                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-bold small">nama ibu</label>
+                            <input type="text" name="nama panjang" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label fw-bold small">asal sekolah</label>
+                            <input type="text" name="nama sekolah" class="form-control form-control-lg bg-light border-0" placeholder="Asal">
+                        </div>
                         <div class="mb-4">
                             <label class="form-label fw-bold small">alasan ingin masuk ke sini</label>
                             <textarea name="pesan" class="form-control bg-light border-0" rows="3"></textarea>
