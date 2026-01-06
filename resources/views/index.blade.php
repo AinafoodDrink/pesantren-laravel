@@ -102,8 +102,11 @@
                 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ
             </h2>
             <p class="mb-0" style="font-family: 'Lateef', cursive; font-size: 1.8rem; color: #ffffff; opacity: 0.9;">
-                اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ - السَّلَامُ عَلَيْكُمْ
-            </p>
+                       السَّلَامُ عَلَيْكُمْ
+            </h2>
+            <p class="mb-0" style="font-family: 'Lateef', cursive; font-size: 1.8rem; color: #ffffff; opacity: 0.9;">
+                     Selamat Datang Di        
+                    </p>
         </div>
 
         <h1 class="display-3 fw-bold mb-3">Pondok Pesantren AS-SYAMSI</h1>
@@ -113,7 +116,6 @@
             <a href="#profil" class="btn btn-outline-light btn-lg px-5">Profil Pesantren</a>
         </div>
     </div>
-</section>
 </section>
 
 <section id="profil">
