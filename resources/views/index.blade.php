@@ -178,51 +178,62 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
 </section>
 
 <section id="program" class="bg-light">
-    <div class="container">
-        <div class="section-title text-center">
-            <h2 class="fw-bold">Program Unggulan di pesantren kami</h2>
-            <p>Pilar utama pendidikan di pesantren kami</p>
-        </div>
-        <div class="row g-4 text-center">
-    <div class="col-md-4">
-        <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
-            <img src="{{ asset('assets/img/ima.jpg') }}" class="img-fluid" alt="Tahfidzul Qur'an" style="height: 200px; width: 100%; object-fit: cover;">
-            
-            <div class="p-4">
-                <div class="icon-box mb-3 text-success"><i class="fas fa-quran fa-2x"></i></div>
-                <h4 class="fw-bold">Tahfidzul Qur’an</h4>
-                <p class="text-muted">Target hafalan mutqin 30 juz dengan bimbingan ustadz tersertifikasi.</p>
-            </div>
-        </div>
+  <div class="container">
+    <div class="section-title text-center">
+      <h2 class="fw-bold">Program Unggulan di pesantren kami</h2>
+      <p>Pilar utama pendidikan di pesantren kami</p>
     </div>
+    <div class="row g-4 text-center">
+      
+      <!-- Kolom 1 -->
+      <div class="col-md-4">
+        <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
+          <img src="{{ asset('assets/img/ima.jpg') }}" class="img-fluid" alt="Tahfidzul Qur'an" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-quran fa-2x"></i></div>
+            <h4 class="fw-bold">Tahfidzul Qur’an</h4>
+            <p class="text-muted">Target hafalan mutqin 30 juz dengan bimbingan ustadz tersertifikasi.</p>
+          </div>
+        </div>
+      </div>
 
-    <div class="col-md-4">
+      <!-- Kolom 2 -->
+      <div class="col-md-4">
         <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
-            <img src="{{ asset('assets/img/pen.jpg') }}" class="img-fluid" alt="Turats" style="height: 200px; width: 100%; object-fit: cover;">
-            
-            <div class="p-4">
-                <div class="icon-box mb-3 text-success"><i class="fas fa-book-open-reader fa-2x"></i></div>
-                <h4 class="fw-bold">Turats (Kitab Kuning)</h4>
-                <p class="text-muted">Pendalaman Fiqih, Aqidah, dan Nahwu Shorof ala pesantren salaf.</p>
-            </div>
+          <img src="{{ asset('assets/img/pen.jpg') }}" class="img-fluid" alt="Turats" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-book-open-reader fa-2x"></i></div>
+            <h4 class="fw-bold">Turats (Kitab Kuning)</h4>
+            <p class="text-muted">Pendalaman Fiqih, Aqidah, dan Nahwu Shorof ala pesantren salaf.</p>
+          </div>
         </div>
-    </div>
+      </div>
 
-    <div class="col-md-4">
+      <!-- Kolom 3 -->
+      <div class="col-md-4">
         <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
-            <img src="{{ asset('assets/img/arab.jpg') }}" class="img-fluid" alt="IT & Bahasa" style="height: 200px; width: 100%; object-fit: cover;">
-            
-            <div class="p-4">
-                <div class="icon-box mb-3 text-success"><i class="fas fa-laptop-code fa-2x"></i></div>
-                <h4 class="fw-bold">IT & Bahasa</h4>
-                <p class="text-muted">Penguasaan Bahasa Arab, Inggris, dan keterampilan digital masa kini.</p>
-            </div>
+          <img src="{{ asset('assets/img/arab.jpg') }}" class="img-fluid" alt="IT & Bahasa" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-laptop-code fa-2x"></i></div>
+            <h4 class="fw-bold">IT & Bahasa</h4>
+            <p class="text-muted">Penguasaan Bahasa Arab, Inggris, dan keterampilan digital masa kini.</p>
+          </div>
         </div>
-    </div>
-</div>
-            </div>
+      </div>
+
+
+      <div class="col-md-4">
+        <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
+          <img src="{{ asset('assets/img/olah.jpg') }}" class="img-fluid" alt="Olahraga" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-futbol fa-2x"></i></div>
+            <h4 class="fw-bold">Olahraga & Kesehatan</h4>
+            <p class="text-muted">Program jasmani untuk kesehatan dan stamina santri.</p>
+          </div>
         </div>
+      </div>
     </div>
+  </div>
 </section>
 
 <section id="asatidzah" class="bg-white">
