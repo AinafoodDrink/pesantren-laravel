@@ -242,6 +242,16 @@ Pribadi Mandiri: Membentuk karakter santri yang berjiwa entrepreneur (wirausaha)
           </div>
         </div>
       </div>
+      <div class="col-md-4">
+        <div class="custom-card bg-white p-0 h-100 overflow-hidden shadow-sm" style="border-radius: 15px;">
+          <img src="{{ asset('assets/img/kepe.jpg') }}" class="img-fluid" alt="Kepemimpinan" style="height: 200px; width: 100%; object-fit: cover;">
+          <div class="p-4">
+            <div class="icon-box mb-3 text-success"><i class="fas fa-users fa-2x"></i></div>
+            <h4 class="fw-bold">Kepemimpinan & Karakter</h4>
+            <p class="text-muted">Membentuk karakter dan jiwa kepemimpinan santri melalui berbagai kegiatan.</p>
+          </div>
+        </div>
+      </div>
     </div>
   </div>
 </section>
